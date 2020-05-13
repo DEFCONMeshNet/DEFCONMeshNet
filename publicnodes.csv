@@ -1,0 +1,3 @@
+owner,location,connectstring
+jrwr,us-east,tcp://eu-de.jrwr.mesh.defcon.fun:31337
+jrwr,eu-de,tcp://us-east.jrwr.mesh.defcon.fun:31337
