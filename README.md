@@ -1,4 +1,5 @@
 # DEFCONMeshNet
+This meshnet is in early stages of forming. Please mind the mess!
 ## How to Connect
 - Install [Install Yggdrasil](https://yggdrasil-network.github.io/installation.html)
 - Configure yggdrasil.conf
