@@ -7,7 +7,7 @@ This meshnet is in early stages of forming. Please mind the mess!
   - Windows: %PROGRAMDATA%/yggdrasil.conf
 - Ensure you enable the SessionFirewall in the config, Disable AllowFromDirect, and AllowFromRemote
 - Add your [closest peers](https://github.com/DEFCONMeshNet/DEFCONMeshNet/blob/master/publicnodes.csv) into the Peers section neer the top.
-  - Add about 5 nearby peers. the more the better!
+  - Add about 2 nearby peers.
 - Review the rest of the config for settings you might like to enable. [Docs](https://yggdrasil-network.github.io/configuration.html)
 - Restart Yggdrasil
 - Ping ```200:cbcd:7189:81c2:9d1e:f295:6f2c:efa2``` to test for connectivity.
