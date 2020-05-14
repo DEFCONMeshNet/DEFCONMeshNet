@@ -1,6 +1,6 @@
 # DEFCONMeshNet
 This meshnet is in early stages of forming. Please mind the mess!
-## How to Connect
+## > How to Connect
 - Install [Install Yggdrasil](https://yggdrasil-network.github.io/installation.html)
 - Configure yggdrasil.conf
   - Linux: /etc/yggdrasil.conf
@@ -12,7 +12,7 @@ This meshnet is in early stages of forming. Please mind the mess!
 - Restart Yggdrasil
 - Ping ```0200:69fc:59d0:88a1:e1b1:81c7:f24d:3fec``` to test for connectivity.
 
-## Meshnet DNS
+## > Meshnet DNS
 The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. all other queries will be forwarded to cloudflare 1.1.1.1
 
 ### Usage
@@ -21,7 +21,7 @@ Set system DNS resolver to ```0200:69fc:59d0:88a1:e1b1:81c7:f24d:3fec```
 ### Register new Domain
 Use the "New Defcon Domain Name" Issue Template to request a Domain name with the meshnet only .defcon tld.
 
-## Adding a new Public Peer
+## > Adding a new Public Peer
 You can connect to any peer on the network if you know their IP and Port, It is a meshnet afterall.
 
 If you wish to have your node publicy listed, please use the Add Public Peer issue template to register a public node.
