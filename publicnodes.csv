@@ -1,21 +1,21 @@
 "Owners","Location","Connection String"
-"--","North America","--"
+"-~-","North America","-~-"
 "jrwr","us-east","tcp://eu-de.jrwr.mesh.defcon.fun:31337"
 
-"--","Europe","--"
+"-~-","Europe","-~-"
 "jrwr","eu-de","tcp://us-east.jrwr.mesh.defcon.fun:31337"
 
-"--","Middle East","--"
+"-~-","Middle East","-~-"
 
-"--","Africa","--"
+"-~-","Africa","-~-"
 
-"--","Asia","--"
+"-~-","Asia","-~-"
 
-"--","Central America","--"
+"-~-","Central America","-~-"
 
-"--","South America","--"
+"-~-","South America","-~-"
 
-"--","Oceania","--"
+"-~-","Oceania","-~-"
 
 
 
