@@ -11,6 +11,7 @@ This meshnet is in early stages of forming. Please mind the mess!
 - Review the rest of the config for settings you might like to enable. [Docs](https://yggdrasil-network.github.io/configuration.html)
 - Restart Yggdrasil
 - Ping ```0200:69fc:59d0:88a1:e1b1:81c7:f24d:3fec``` to test for connectivity.
+
 ## Meshnet DNS
 The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. all other queries will be forwarded to cloudflare 1.1.1.1
 
