@@ -13,10 +13,10 @@ This meshnet is in early stages of forming. Please mind the mess!
 - Ping ```0200:69fc:59d0:88a1:e1b1:81c7:f24d:3fec``` to test for connectivity.
 
 ## Meshnet DNS
-The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. all other queries will be forwarded to cloudflare 1.1.1.1
+The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. all other non-mesh and IPv4 will be forwarded to cloudflare 1.1.1.1
 
 ### Usage
-Set system DNS resolver to ```0200:69fc:59d0:88a1:e1b1:81c7:f24d:3fec```
+Set system DNS resolver to ```200:cbcd:7189:81c2:9d1e:f295:6f2c:efa2```
 
 ### Register new Domain
 Use the "New Defcon Domain Name" Issue Template to request a Domain name with the meshnet only .defcon tld.
