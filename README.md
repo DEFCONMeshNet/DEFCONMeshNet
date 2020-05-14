@@ -21,6 +21,8 @@ Set system DNS resolver to ```200:cbcd:7189:81c2:9d1e:f295:6f2c:efa2```
 ### Register new Domain
 Use the "New Defcon Domain Name" Issue Template to request a Domain name with the meshnet only .defcon tld.
 
+Popular Names and exisiting groups will need reasonable proof of ownership included in the request.
+
 ## > Adding a new Public Peer
 You can connect to any peer on the network if you know their IP and Port, It is a meshnet afterall.
 
