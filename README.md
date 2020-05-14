@@ -11,7 +11,7 @@
 - Restart Yggdrasil
 - Ping ```0200:69fc:59d0:88a1:e1b1:81c7:f24d:3fec``` to test for connectivity.
 ## Meshnet DNS
-The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. all other queries will be forwarded to cloudflare 1.1.1.1 over DNS over TLS in us-west.
+The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. all other queries will be forwarded to cloudflare 1.1.1.1
 
 ### Usage
 Set system DNS resolver to ```0200:69fc:59d0:88a1:e1b1:81c7:f24d:3fec```
