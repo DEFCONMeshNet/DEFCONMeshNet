@@ -5,8 +5,6 @@
   - Linux: /etc/yggdrasil.conf
   - Windows: %PROGRAMDATA%/yggdrasil.conf
 - Ensure you enable the internal firewall in the config
-- Add your peers into the Peers section neer the top.
+- Add your [closest peers](https://github.com/DEFCONMeshNet/DEFCONMeshNet/blob/master/publicnodes.csv) into the Peers section neer the top.
   - Add about 5 nearby peers. the more the better!
 - Review the rest of the config for settings you might like to enable.
-
-## Public Nodes
