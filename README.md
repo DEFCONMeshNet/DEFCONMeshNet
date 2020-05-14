@@ -7,16 +7,16 @@ This meshnet is in early stages of forming. Please mind the mess!
   - Windows: %PROGRAMDATA%/yggdrasil.conf
 - Ensure you enable the SessionFirewall in the config, Disable AllowFromDirect, and AllowFromRemote
 - Add your [closest peers](https://github.com/DEFCONMeshNet/DEFCONMeshNet/blob/master/publicnodes.csv) into the Peers section neer the top.
-  - Add about 5 nearby peers.
+  - Add about 5 nearby peers. the more the better!
 - Review the rest of the config for settings you might like to enable. [Docs](https://yggdrasil-network.github.io/configuration.html)
 - Restart Yggdrasil
-- Ping ```0200:69fc:59d0:88a1:e1b1:81c7:f24d:3fec``` to test for connectivity.
+- Ping ```200:cbcd:7189:81c2:9d1e:f295:6f2c:efa2``` to test for connectivity.
 
 ## Meshnet DNS
-The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. all other non-mesh and IPv4 will be forwarded to cloudflare 1.1.1.1
+The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. All other non-mesh and all IPv4 requests will be forwarded to cloudflare 1.1.1.1 and 1.0.0.1.
 
 ### Usage
-Set system DNS resolver to ```0200:cbcd:7189:81c2:9d1e:f295:6f2c:efa2```
+Set system DNS resolver to ```200:cbcd:7189:81c2:9d1e:f295:6f2c:efa2```
 
 ### Register new Domain
 Use the "New Defcon Domain Name" Issue Template to request a Domain name with the meshnet only .defcon tld.
