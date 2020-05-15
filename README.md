@@ -6,6 +6,7 @@ Interesting Uses:
 - Run Services behind firewalls and slow links
 - Network is Point to Point Encrypted for your pleasure.
 - Meshnet a bunch of badges together for a great time 
+- Be a part of a mini, cooler internet
 
 ## How to Connect
 - Install [Install Yggdrasil](https://yggdrasil-network.github.io/installation.html)
