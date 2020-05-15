@@ -1,5 +1,12 @@
 # DEFCONMeshNet
 This meshnet is in early stages of forming. Please mind the mess!
+
+Interesting Uses:
+- Host CTF Boxes / Hosts in a fun and safe way. 
+- Run Services behind firewalls and slow links
+- Network is Point to Point Encrypted for your pleasure.
+- Meshnet a bunch of badges together for a great time 
+
 ## How to Connect
 - Install [Install Yggdrasil](https://yggdrasil-network.github.io/installation.html)
 - Configure yggdrasil.conf
