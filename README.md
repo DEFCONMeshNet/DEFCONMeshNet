@@ -39,4 +39,4 @@ If you wish to have your node publicy listed, please use the Add Public Peer iss
 ## Known on mesh services.
 To add a service, please use the Mesh Services issue template
 - [DefconMeshnet Matrix](https://[200:2c03:79b4:4257:ce90:7582:4c5a:d946])
-- (User.defcon self service dns bot](http://[201:6170:df3e:3de1:51a4:fac4:5b17:2d82]/)
+- [User.defcon self service dns bot](http://[201:6170:df3e:3de1:51a4:fac4:5b17:2d82]/)
