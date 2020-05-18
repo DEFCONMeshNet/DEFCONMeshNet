@@ -9,7 +9,7 @@ Interesting Uses:
 - Be a part of a mini, cooler internet
 
 ## How to Connect
-- Install [Install Yggdrasil](https://yggdrasil-network.github.io/installation.html)
+- [Install Yggdrasil](https://yggdrasil-network.github.io/installation.html)
 - Configure yggdrasil.conf
   - Linux: /etc/yggdrasil.conf
   - Windows: %PROGRAMDATA%/yggdrasil.conf
