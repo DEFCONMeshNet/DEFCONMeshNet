@@ -10,13 +10,15 @@ This meshnet is in early stages of forming. Please mind the mess!
   - Add about 2 nearby peers.
 - Review the rest of the config for settings you might like to enable. [Docs](https://yggdrasil-network.github.io/configuration.html)
 - Restart Yggdrasil
-- Ping ```200:69fc:59d0:88a1:e1b1:81c7:f24d:3fec``` to test for connectivity.
+- Ping ```202:7967:4d86:125c:acc1:f5bf:e719:329b``` or ```201:4771:e691:f802:373:17da:25ee:9654``` to test for connectivity.
 
 ## > Meshnet DNS
 The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. all other non-mesh and IPv4 will be forwarded to cloudflare 1.1.1.1
 
 ### Usage
-Set system DNS resolver to ```200:cbcd:7189:81c2:9d1e:f295:6f2c:efa2```
+Set system DNS resolver to either or both:  
+-```202:7967:4d86:125c:acc1:f5bf:e719:329b```  
+-```201:4771:e691:f802:373:17da:25ee:9654```
 
 ### Register new Domain
 Use the "New Defcon Domain Name" Issue Template to request a Domain name with the meshnet only .defcon tld.
