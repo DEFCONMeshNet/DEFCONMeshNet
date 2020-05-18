@@ -33,3 +33,9 @@ If you wish to have your node publicy listed, please use the Add Public Peer iss
 ## > Known on mesh services.
 To add a service, please use the Mesh Services issue template
 - [DefconMeshnet Matrix](https://[0200:2c03:79b4:4257:ce90:7582:4c5a:d946])
+
+## About  
+For any questions please contact either @JRWR or @McL0v1n_ (on Twitter).  
+
+Time and effort for organizing the DEFCON Meshnet and running its DNS servers have been thanks to volunteers over at DCDarknet.  
+
