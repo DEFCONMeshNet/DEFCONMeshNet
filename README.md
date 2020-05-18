@@ -25,7 +25,8 @@ The meshnet has a managed DNS server that will resolve the .defcon tld managed b
 
 ### Usage
 Set system DNS resolver to either or both: 
--```202:7967:4d86:125c:acc1:f5bf:e719:329b```  
+-```202:7967:4d86:125c:acc1:f5bf:e719:329b```
+
 -```201:4771:e691:f802:373:17da:25ee:9654```
 
 ### Register new Domain
