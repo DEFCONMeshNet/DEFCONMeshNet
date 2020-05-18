@@ -21,7 +21,9 @@ Interesting Uses:
 - Ping ```202:7967:4d86:125c:acc1:f5bf:e719:329b``` or ```201:4771:e691:f802:373:17da:25ee:9654``` to test for connectivity.
 
 ## Meshnet DNS
-The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. All other non-mesh and all IPv4 requests will be forwarded to cloudflare 1.1.1.1 and 1.0.0.1.
+The meshnet has a managed DNS server that will resolve the .defcon tld managed by this repository. All other non-mesh and all IPv4 requests will be forwarded to cloudflare 1.1.1.1 and 1.0.0.1. 
+
+*This Name Server does not log queries in any way shape or form.*
 
 ### Usage
 Set system DNS resolver to either or both:  
