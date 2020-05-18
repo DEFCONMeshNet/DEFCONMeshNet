@@ -1,5 +1,7 @@
 "Owners","Location","Connection String"
 "-~-","North America","-~-"
+"jrwr","us-west",tcp://us-west-1.jrwr.mesh.defcon.fun:31337"
+"jrwr","us-west",tcp://us-west-2.jrwr.mesh.defcon.fun:31337"
 "jrwr","us-east","tcp://eu-de.jrwr.mesh.defcon.fun:31337"
 
 "-~-","Europe","-~-"
