@@ -40,6 +40,8 @@ You can connect to any peer on the network if you know their IP and Port, It is 
 
 If you wish to have your node publicy listed, please use the Add Public Peer issue template to register a public node.
 
+**[List of Public Nodes](https://github.com/DEFCONMeshNet/DEFCONMeshNet/blob/master/publicnodes.csv)**
+
 ## Known on mesh services.
 To add a service, please use the Mesh Services issue template
 - [DefconMeshnet Matrix](https://[200:2c03:79b4:4257:ce90:7582:4c5a:d946]/)
