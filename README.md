@@ -46,3 +46,8 @@ To add a service, please use the Mesh Services issue template
 - [User.defcon self service dns bot](http://[201:6170:df3e:3de1:51a4:fac4:5b17:2d82]/)
 - [Defcon Imageboard - For all your meme needs](http://[200:a8ec:216c:7550:bb88:a417:3956:d41]/index.html)
 - [Defcon Hidden Wiki - For those strange things you see at linecon](http://[204:27e3:4f7c:2a89:8813:a9c6:14db:b3cc]/)
+
+## About
+
+Time and effort for organizing the DEFCON Meshnet and running its DNS servers have been thanks to volunteers over at DCDarknet.
+
