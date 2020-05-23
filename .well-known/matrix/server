@@ -1,6 +1,6 @@
 ---
 layout: none
-permalink: .well-known/matrix/server
+permalink: /.well-known/matrix/server
 ---
 {
 	"m.server": "matrix.defconmesh.net:8448"
