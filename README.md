@@ -1,3 +1,5 @@
+### [How to Connect](#How-to-Connect) - [Meshnet DNS](#meshnet-dns) - [Adding a Peer](#adding-a-new-public-peer) - 
+
 # DEFCONMeshNet
 This meshnet is in early stages of forming. Please mind the mess!
 
@@ -36,7 +38,7 @@ Use the "New Defcon Domain Name" Issue Template to request a Domain name with th
 Popular Names and exisiting groups will need reasonable proof of ownership included in the request.
 
 ## Adding a new Public Peer
-You can connect to any peer on the network if you know their IP and Port, It is a meshnet afterall.
+You can connect to any peer on the network if you know their set listening IP and Port, It is a meshnet afterall.
 
 If you wish to have your node publicy listed, please use the Add Public Peer issue template to register a public node.
 
