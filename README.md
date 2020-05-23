@@ -1,4 +1,4 @@
-### [How to Connect](#How-to-Connect) - [Meshnet DNS](#meshnet-dns) - [Adding a Peer](#adding-a-new-public-peer) - 
+### [How to Connect](#How-to-Connect) - [Meshnet DNS](#meshnet-dns) - [Adding a Peer](#adding-a-new-public-peer) - [Mesh Services](#known-on-mesh-services) - [About](#about) - [Code of Conduct](#code-of-conduct)
 
 # DEFCONMeshNet
 This meshnet is in early stages of forming. Please mind the mess!
