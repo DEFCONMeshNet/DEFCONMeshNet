@@ -57,7 +57,7 @@ Time and effort for organizing the DEFCON Meshnet and running its DNS servers ha
 
 Follow the rules and guidelines set by the DEFCON Code of Conduct (CoC).
 
-Because nodes can only connect to this network through other nodes, if you identify illegal or content against the CoC then please either disconnect/block the node from connecting to you, or report the node to be disconnected by the peer it is connected to.
+Because nodes can only connect to this network through other nodes, if you identify any content or behavior that is illegal or content the CoC then please either disconnect/block the node from connecting to you, or report the node to be disconnected by the peer it is connected to.
 
 Responsible Disclosure - Any vulnerabilities discovered accidentally or through allowed testing should be reported and fixed/mitigated before (if agreed to) being disclosed.
 
